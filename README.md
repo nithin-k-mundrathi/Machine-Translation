@@ -2,6 +2,9 @@
 
 In the following experiment, we use seq-to-seq encoder-decoder architecture for Machine Translation. We Train Two different Models here Machine Translation with Attention and without Attention. The Source Language we use here is Vietnamese and Target Language is English.The Attention code is written from scratch and I used  Basic dot product Attention rather than Additive Attention and Multiplicative Attention which is simple to compute using Keras backend.
 
+![image](https://user-images.githubusercontent.com/47551095/123563154-fc2aaf00-d7aa-11eb-8289-1940c926406e.png)
+
+
 The Below Are Few examples of the prediction for Machine Translation with Attention.
 
 Example-1
